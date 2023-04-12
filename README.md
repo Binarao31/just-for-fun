@@ -1,4 +1,4 @@
 # just-for-fun
 codes that i made in highschool
 
-BINARAO
+BINARAO - v2 nani!

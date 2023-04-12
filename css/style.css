@@ -64,7 +64,7 @@ main h1 {
     color: #fff;
     text-align: center;
     margin: 2rem 10rem 2rem;
-    padding: 20rem 0 1rem;
+    padding: 15rem 0 1rem;
     font-size: 4rem;
 }
 
@@ -73,12 +73,23 @@ main h1 {
     margin: 0 35rem 2rem;
     padding: 0 5rem 2rem;
     border-radius: 40px;
-    height: 30rem;
-    border: 2px solid #fff;
+    height: 28rem;
+    border: 3px solid #9d072a; 
 }
     
 .column1 img {
     padding-top: 1rem;
     height: 13rem;
     width: 14rem;
+    border-radius: 30px;
+}
+
+.column1 ul {
+    margin-top: 1.5rem;
+}
+
+.column1 ul li {
+    list-style: none;
+    color: azure;
+    margin: 1rem 0 1rem;
 }
